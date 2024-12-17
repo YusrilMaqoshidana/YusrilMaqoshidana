@@ -16,4 +16,4 @@ Saat ini saya sedang belajar mendalami bahasa pemrograman **Kotlin** dan **Java*
 </a>
 </p>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-yusril-maqoshidana-ti222410102064/)ku atau [Facebook](https://www.facebook.com/yusril.maqoshidana)ku ya.
+Let's connect [Linkedin](https://www.linkedin.com/in/moh-yusril-maqoshidana-ti222410102064/) & [Facebook](https://www.facebook.com/yusril.maqoshidana).
