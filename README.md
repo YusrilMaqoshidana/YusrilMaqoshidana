@@ -16,7 +16,7 @@ Perkenalkan, nama saya Moh. Yusril Maqoshidana!<br> Saya adalah seorang Enthusia
 <div align="left"> <a href="https://www.linkedin.com/in/moh-yusril-maqoshidana-ti222410102064/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/yusril.maqoshidana"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </div></br></br></br>
 <div align="center">
 
-<em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+<em>"Is your routine killing your dream or building them ?"</em>  
 </br>  
 ✨ <b>Keep Learning. Keep Coding.</b> ✨
 
