@@ -7,7 +7,7 @@ Perkenalkan, nama saya Moh. Yusril Maqoshidana!<br> Saya adalah seorang Enthusia
 🌱 Selalu terbuka untuk belajar teknologi baru dan berkolaborasi dengan sesama developer.</br></br>
 🎯 Tujuan saya adalah menjadi seorang Mobile Developer profesional yang dapat memberikan solusi kreatif melalui teknologi.</br></br>
 <h2>📚 Languages</h2>
-<div align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=dart,kotlin,java&theme=dark" alt="Languages" /> </a> </div>
+<div align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=dart,kotlin&theme=dark" alt="Languages" /> </a> </div>
 <h2>🚧 Frameworks</h2>
 <div align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,android&theme=dark" alt="Frameworks" /> </a> </div>
 <h2>📊 GitHub Statistic</h2>
