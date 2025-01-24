@@ -2,10 +2,10 @@
 Perkenalkan, nama saya Moh. Yusril Maqoshidana!<br> Saya adalah seorang Enthusiastic Mobile Developer yang selalu antusias dalam mempelajari teknologi baru, khususnya pengembangan aplikasi mobile.
 
 <h2>🚀 Tentang Saya</h2>
-📱 Mobile Developer dengan pengalaman dalam pengembangan aplikasi menggunakan Flutter.</br></br>
-💡 Saat ini, saya sedang mendalami bahasa pemrograman Kotlin dan Java untuk pengembangan Android Native.</br></br>
+📱 Saya mahasiswa Teknologi Informasi. 1 tahun pengalaman dalam pengembangan Aplikasi Mobile.</br></br>
+💡 Tertarik mempelajari pengembangan android lebih dalam.</br></br>
 🌱 Selalu terbuka untuk belajar teknologi baru dan berkolaborasi dengan sesama developer.</br></br>
-🎯 Tujuan saya adalah menjadi seorang Mobile Developer profesional yang dapat memberikan solusi kreatif melalui teknologi.</br></br>
+🎯 Mencari peluang dalam pengembangan Aplikasi Mobile.</br></br>
 <h2>📚 Languages</h2>
 <div align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=dart,kotlin&theme=dark" alt="Languages" /> </a> </div>
 <h2>🚧 Frameworks</h2>
